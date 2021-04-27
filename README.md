@@ -7,4 +7,4 @@ to hone my skills. As a DS team lead, its also fun to get my hands on the keyboa
 
 Feel free to explore my Github or check out my linked in and website:
 * [LinkedIn](https://www.linkedin.com/feed/)
-* [Personal Website](https://jamesmontgomery.us)
+* [Personal Website](http://jamesmontgomery.us/)
